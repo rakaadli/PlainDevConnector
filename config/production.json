@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://raka123:raka123@devconnector-ayagw.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "37b474ca1f4e1b132ec5",
+  "githubSecret": "1d83adbc4d8cae363913f7829012bc50acf0f4fd",
+  "githubToken": "a1718197140be4219c64c9ce60ddda30f2ba078c"
+}
